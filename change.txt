@@ -1,1 +1,1 @@
-this my local changethis is new changes
+this my local changethis is new changesthis is stash exampleonce more 
