@@ -1,1 +1,2 @@
 this new file in LR
+git fetch origin && git status
